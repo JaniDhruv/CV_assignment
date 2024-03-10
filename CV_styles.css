@@ -1,0 +1,74 @@
+* {
+    text-align: center;
+}
+
+.t_h {
+
+    background-color: bisque;
+}
+
+#name {
+    color: bisque;
+    background-color: brown;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 5px solid brown;
+    border-radius: 50%;
+}
+
+h1 {
+    color: red;
+}
+
+.lB {
+    background-color: lightblue;
+}
+
+.link {
+    color: bisque;
+    background-color: brown;
+}
+
+table {
+    display: inline-block;
+    border-spacing: 10px;
+    border: 3px solid black;
+    background-color: aliceblue;
+}
+
+th {
+    padding: 10px;
+    border: 3px solid black;
+    color: darkblue;
+}
+
+.cell {
+    padding: 10px;
+    border: 3px solid black;
+    color: blue;
+}
+
+.data_rows {
+    background-color: rgb(245, 245, 147);
+}
+
+.left {
+    text-align: left;
+}
+
+ul.techSkills {
+    color: blue;
+    list-style-type: square;
+}
+
+ul.hobbies {
+    color: blue;
+    list-style-type: square;
+}
+
+.list {
+    background-color: rgb(245, 245, 147);
+}
